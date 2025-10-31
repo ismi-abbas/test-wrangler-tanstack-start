@@ -1,6 +1,6 @@
 {
 	"$schema": "./node_modules/wrangler/config-schema.json",
-	"name": "test-app",
+	"name": "test",
 	"main": "@tanstack/react-start/server-entry",
 	"compatibility_date": "2025-07-05",
 	"compatibility_flags": ["nodejs_compat"],
